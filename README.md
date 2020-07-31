@@ -6,3 +6,6 @@ The front end for sales.wishcoinmedia.com
 
 - React
 - Tailwind
+- TypeScript
+- React Query
+- React Hook Form
